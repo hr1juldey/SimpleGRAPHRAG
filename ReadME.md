@@ -70,7 +70,7 @@ SimpleGRAPHRAG/
 3. **Embedding Generation**: Uses Ollama to generate embeddings for text chunks.
 4. **Retrieval**: Finds relevant chunks based on query similarity.
 5. **Answer Generation**: Uses a language model to generate answers based on retrieved context.
-SimpleGRAPHRAG
+
 ## Detailed Function Explanations
 
 ### `read_file(file_path)`
