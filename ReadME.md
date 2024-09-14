@@ -30,7 +30,7 @@ GraphRAG enhances traditional RAG by using graph structures to represent relatio
 
 2. Install the required dependencies:
 
-```bash
+   ```bash
    pip install -r requirements.txt
    ```
 
