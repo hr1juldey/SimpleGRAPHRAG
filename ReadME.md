@@ -185,7 +185,7 @@ Parameters:
 
 <div>
 
-<img title="graph visialisation of a sotry by Ruskin Bond" alt="GRAPHRAG" src="./plots/A_cherry_tree.png">
+<img title="graph visialisation of a story by Ruskin Bond" alt="GRAPHRAG" src="./plots/A_cherry_tree.png">
 
 <div>
 
@@ -214,3 +214,4 @@ The `visualize_graph` function can be used to create a visual representation of 
 4. Integration with other embedding models and language models could be explored.
 
 Feel free to contribute to this project by submitting pull requests or opening issues for bugs and feature requests.
+You can also read about projects like these in our website [AI&U](https://www.artificialintelligenceupdate.com/)
