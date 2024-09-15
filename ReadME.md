@@ -30,30 +30,19 @@ GraphRAG enhances traditional RAG by using graph structures to represent relatio
 
 2. Install the required dependencies:
 
-```bash
+   ```bash
    pip install -r requirements.txt
    ```
 
 ## Usage
 
-1. Prepare your text data (Markdown or PDF format).
-2. Run the GraphRAG creation script:
-
-   ```python
-   python create_graph.py --input_file path/to/your/file.md --output_file path/to/save/graph.gpickle
-   ```
-
-3. Use the graph for querying:
-
-   ```python
-   python query_graph.py --graph_file path/to/graph.gpickle --query "Your question here"
-   ```
-
+1. Prepare your text data (Markdown or PDF format). Keep it in the `data/`  folder.
+2. Open `Example.ipynb` and run the cells one by one.
 ## File Structure
 
 ```markdown
 
-graphrag/
+SimpleGRAPHRAG/
 ├── Example.ipynb
 ├── data/
 │   ├── st5.md
@@ -196,7 +185,7 @@ Parameters:
 
 <div>
 
-<img title="graph visialisation of a sotry by Ruskin Bond" alt="GRAPHRAG" src="./plots/A_cherry_tree.png">
+<img title="graph visialisation of a story by Ruskin Bond" alt="GRAPHRAG" src="./plots/A_cherry_tree.png">
 
 <div>
 
@@ -225,3 +214,4 @@ The `visualize_graph` function can be used to create a visual representation of 
 4. Integration with other embedding models and language models could be explored.
 
 Feel free to contribute to this project by submitting pull requests or opening issues for bugs and feature requests.
+You can also read about projects like these in our website [AI&U](https://www.artificialintelligenceupdate.com/)
